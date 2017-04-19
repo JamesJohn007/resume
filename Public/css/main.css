@@ -1,0 +1,92 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+  background: linear-gradient(to right, #9d50bb, #6e48aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+/*=======================================================================
+  $NAVBARS$
+  ======================================================================*/
+.topper{
+    font-size: 30px;
+    color:#DAA520	;
+    font-family: 'Concert One', cursive;
+}
+
+.navbar-brand{
+  font-family: 'Concert One', cursive;
+
+}
+.navbar-toggle{
+  color: #DAA520;
+}
+
+
+.topper.hover{
+
+    color: #FFA500	;
+    text-decoration:underlined;
+}
+a:hover, a:focus {
+    color: #DE630E  ;
+    text-decoration: underline;
+    border-radius: 42%;
+
+}
+.topper.focus{
+  font-color:#DAA520;
+}
+
+.nav>li>a:focus {
+    text-decoration:underline;
+    background-color: white ;
+}
+
+/*font family*/
+.lobster{
+    font-size: 32px;
+    font-family: 'UnifrakturCook', cursive;
+    color:#DAA520		;
+
+}
+
+.lobster.hover{
+  font-size: 32px;
+  font-family: 'UnifrakturCook', cursive;
+  color:#FFA500	;
+}
+
+/*center anything with this class*/
+.center{
+    width: 50%;
+    margin:0 auto;
+
+}
+
+.icon-bar>icon{
+    color: black;
+
+}
+
+.navbar-toggle{
+    background-color: aliceblue;
+}
+
+.h2{
+  font-family: 'Bree Serif', serif;
+  color:#0000ff;
+}
+
+.details{
+  font-family: 'Bitter', serif;
+  color: #FFD700;
+}
+/*=========================================================================
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+==========================================================================*/
